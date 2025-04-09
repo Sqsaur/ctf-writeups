@@ -1,16 +1,37 @@
-ctf-writeups
-This repository documents my personal approach to solving security challenges, with a focus on learning and practicing offensive security techniques.
+<h1 align="center">🛡️ CTF Writeups — OWASP Juice Shop</h1>
+<p align="center">Documenting my path to mastering offensive web security.</p>
 
-🍹 Juice Shop Challenges
-A collection of write-ups from my learning journey with OWASP Juice Shop. The goal is to gain hands-on experience with the most common web application vulnerabilities and improve my skills in offensive security.
+---
 
-Status
-Work in progress — I’m adding new entries.
+## 🍹 About
 
-📚 Table of Contents
+This repository contains write-ups from my journey through OWASP Juice Shop — a deliberately insecure web application designed to teach common web vulnerabilities. My goal is to strengthen my practical skills in offensive security by solving real-world inspired challenges.
 
-    Login Admin ✅
+---
 
-    File Upload >100kB ✅
+## 📚 Table of Contents
 
-    Scoreboard ✅
+- [Login Admin](challenges/01-login-admin.md) ✅  
+- [File Upload >100kB](challenges/02-file-upload-bypass.md) ✅  
+- [Scoreboard](challenges/03-scoreboard.md) ✅  
+
+---
+
+## 🧠 Tools & Technologies
+
+- OWASP Juice Shop  
+- Burp Suite / curl / ffuf / OWASP ZAP  
+- GitHub Pages (optional)  
+- Markdown  
+
+---
+
+## 🚧 Work in Progress
+
+New write-ups are added regularly as I work through the challenges. Stay tuned!
+
+---
+
+## 📫 Contact
+
+Want to connect? Reach out via [GitHub](https://github.com/YOUR_USERNAME) or drop me a message.

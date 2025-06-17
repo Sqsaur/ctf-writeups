@@ -28,7 +28,7 @@ This repository contains write-ups from my journey through OWASP Juice Shop — 
 
 ## 🚧 Work in Progress
 
-New write-ups are added regularly as I work through the challenges. Stay tuned!
+New write-ups are added regularly(or not) as I work through the challenges. Stay tuned!
 
 ---
 

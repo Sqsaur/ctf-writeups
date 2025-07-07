@@ -5,7 +5,7 @@
 
 ## 🍹 About
 
-This repository contains write-ups from my journey through OWASP Juice Shop — a deliberately insecure web application designed to teach common web vulnerabilities. My goal is to strengthen my practical skills in offensive security by solving real-world inspired challenges.
+This repository contains write-ups from my journey through OWASP Juice Shop which is an insecure web application designed to teach web vulnerabilities. My goal is to strengthen my practical skills in offensive security by solving real-world inspired challenges.
 
 ---
 
@@ -34,4 +34,4 @@ New write-ups are added regularly(or not) as I work through the challenges. Stay
 
 ## 📫 Contact
 
-Want to connect? Reach out via [GitHub](https://github.com/YOUR_USERNAME) or drop me a message.
+Want to connect? Drop me a message.

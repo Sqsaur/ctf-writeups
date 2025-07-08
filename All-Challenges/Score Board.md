@@ -4,7 +4,7 @@
 **Difficulty**: 100  
 
 **Description**:  
-Access the score board. (Difficulty Level: 2)
+Access the score board. (Difficulty Level: 1.5)
 
 ---
 

@@ -18,7 +18,7 @@ Each challenge is assigned a **difficulty score** (1.0–5.0):
 - 🔸 **2.0 – 3.0**: Medium, requires light recon or technical testing  
 - 🔺 **3.5 – 5.0**: Advanced, may require chaining techniques, scripting, or in-depth analysis
 
-The ratings are based on [OWASP Juice Shop's official challenge metadata](https://pwning.owasp-juice.shop/part1/challenges.html), my personal experience, and community feedback.
+The ratings are based on my opinion.
 
 ---
 

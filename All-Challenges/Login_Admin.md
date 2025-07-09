@@ -1,38 +1,28 @@
-# Login Admin
+# Zero Stars
 
-**Category**: Authentication  
+**Category**: Broken Validation  
 **Difficulty**: 2
 
 **Description**:  
-Log in with the administrator's user account.
+Submit feedback with a rating of zero stars.
 
 ---
 
 **Solution**:  
-I managed to log in using two different methods:  
-1. Default credentials  
-2. SQL Injection
+This challenge was solved by manipulating a legitimate feedback submission request and forcing the rating to be `0`, even though the UI does not allow such input.
 
 ---
 
 **Steps**:
-
-### Method 1: Default Credentials  
-1. I tested if the default admin login was still enabled.  
-2. I used:
-- **Email**: `admin@juice-sh.op`
-- **Password**: `admin123` (ppl still use this as a password really)
-3. This successfully logged me in as the administrator.
-
-### Method 2: SQL Injection  
-1. Attempted a basic SQL injection on the login form to bypass authentication.  
-2. Used the following input:
-- **Email**: `' OR 1=1--`  
-- **Password**: `anything`
-3. This also resulted in a successful login — I was granted access without valid credentials.
-
----
-
-**Result**:  
-In both cases, a **"Challenge solved!"** popup confirmed that the challenge was completed.
-
+1. I navigated to the **"Customer Feedback"** section of the application.
+2. Filled out a basic comment and selected a valid rating (e.g., 3 stars) to allow the form to submit.
+3. Intercepted the request using **Burp Suite**.
+4. The request body contained a `"rating"` field, which I manually changed to `0` before forwarding:
+   ```json
+   {
+     "UserId": 23,
+     "captchaId": 3,
+     "captcha": "23",
+     "comment": "123123 (***@123)",
+     "rating": 0
+   }

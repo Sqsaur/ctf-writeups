@@ -26,12 +26,12 @@ The ratings are based on my opinion.
 
 | #  | Challenge Name      | Category                 | Difficulty |
 |----|---------------------|--------------------------|------------|
-| 1  | [Login Admin](All-Challenges/Login_Admin.md)            | Authentication                 | 2          |
-| 2  | [Password Strength](All-Challenges/Password_Strength.md)| Broken Authentication     | 2.5        |
+| 1  | [Login Admin](All-Challenges/Login_Admin.md)            | Authentication             | 2          |
+| 2  | [Password Strength](All-Challenges/Password_Strength.md)| Broken Authentication      | 2.5        |
 | 3  | [Privacy Policy](All-Challenges/Privacy_Policy.md)      | Miscellaneous              | 1          |
 | 4  | [Score Board](All-Challenges/Score_Board.md)            | Miscellaneous              | 1.5        |
-| 5  | [Error Handling](All-Challenges/Error_Handling.md)      | Security Misconfiguration  | 2          |
-| 6  | [Zero Stars](All-Challenges/Zero_Stars.md)              | Improper Input Validation  | 2.5        |
+| 5  | [Error Handling](All-Challenges/Error_Handling.md)      | Security Misconfiguration  | 2.5        |
+| 6  | [Zero Stars](All-Challenges/Zero_Stars.md)              | Improper Input Validation  | 2          |
 
 _(More will be added as I go through the challenges.)_
 

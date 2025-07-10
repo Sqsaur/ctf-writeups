@@ -32,6 +32,7 @@ The ratings are based on my opinion.
 | 4  | [Score Board](All-Challenges/Score_Board.md)            | Miscellaneous              | 1.5        |
 | 5  | [Error Handling](All-Challenges/Error_Handling.md)      | Security Misconfiguration  | 2.5        |
 | 6  | [Zero Stars](All-Challenges/Zero_Stars.md)              | Improper Input Validation  | 2          |
+| 7  | [Missing Encoding](All-Challenges/Missing_Encoding.md)  | Improper Input Validation  | 1.5        |
 
 _(More will be added as I go through the challenges.)_
 

@@ -36,8 +36,8 @@ The ratings are based on my opinion.
 | 8   | [Security Policy](All-Challenges/Security_Policy.md)                       | Miscellaneous             | 2          |
 | 9   | [Poison Null Byte](All-Challenges/Poison_Null_Byte.md)                     | Security Misconfiguration | 3.5        |
 | 10  | [Forgotten Developer Backup](All-Challenges/Forgotten_Developer_Backup.md) | Sensitive Data Exposure   | 3.5        |
-| 11  | [Five-Star Feedback](All-Challenges/Five_Star_Feedback.md)                 | Broken Access Control     | 4          |
-| 12  | [Exposed Metrics](All-Challenges/Exposed_Metrics.md)                       |  Sensitive Data Exposure   | 2          |
+| 11  | [Five-Star Feedback](All-Challenges/Five-Star_Feedback.md)                 | Broken Access Control     | 4          |
+| 12  | [Exposed Metrics](All-Challenges/Exposed_Metrics.md)                       | Sensitive Data Exposure   | 2          |
 | 13  | [Easter Egg](All-Challenges/Easter_Egg.md)                                 | Security Misconfiguration | 3          |
 
 _(More will be added as I go through the challenges.)_

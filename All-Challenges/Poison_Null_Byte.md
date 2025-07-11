@@ -20,7 +20,7 @@ This challenge was solved by bypassing an insecure file extension filter using a
    gobuster dir -u http://127.0.0.1:3000 -w /usr/share/seclists/Discovery/Web-Content/common.txt -o xxx.txt--exclude-length 80117
 2. The folder exposed several files (e.g., .bak, .pyc, .kdbx), but the server only allowed downloading .md and .pdf files. Attempts to access others (like package.json.bak) returned:
 
-403 Error: Only .md and .pdf files are allowed!
+403 Error: Only .md and .pdf files are allowed!  
 3. I intercepted the request to GET /ftp/package.json.bak using Burp Suite, then sent it to Repeater.
 
 4.Tried different approaches but the one that worked was modifying the request path to:

@@ -26,3 +26,4 @@ This challenge was solved by manipulating a legitimate feedback submission reque
      "comment": "123123 (***@123)",
      "rating": 0
    }
+**"Challenge solved!"** popup confirmed that the challenge was completed.

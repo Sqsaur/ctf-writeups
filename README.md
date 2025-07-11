@@ -26,13 +26,16 @@ The ratings are based on my opinion.
 
 | #  | Challenge Name      | Category                 | Difficulty |
 |----|---------------------|--------------------------|------------|
-| 1  | [Login Admin](All-Challenges/Login_Admin.md)            | Authentication             | 2          |
-| 2  | [Password Strength](All-Challenges/Password_Strength.md)| Broken Authentication      | 2.5        |
-| 3  | [Privacy Policy](All-Challenges/Privacy_Policy.md)      | Miscellaneous              | 1          |
-| 4  | [Score Board](All-Challenges/Score_Board.md)            | Miscellaneous              | 1.5        |
-| 5  | [Error Handling](All-Challenges/Error_Handling.md)      | Security Misconfiguration  | 2.5        |
-| 6  | [Zero Stars](All-Challenges/Zero_Stars.md)              | Improper Input Validation  | 2          |
-| 7  | [Missing Encoding](All-Challenges/Missing_Encoding.md)  | Improper Input Validation  | 1.5        |
+| 1  | [Login Admin](All-Challenges/Login_Admin.md)                                 | Authentication             | 2          |
+| 2  | [Password Strength](All-Challenges/Password_Strength.md)                     | Broken Authentication      | 2.5        |
+| 3  | [Privacy Policy](All-Challenges/Privacy_Policy.md)                           | Miscellaneous              | 1          |
+| 4  | [Score Board](All-Challenges/Score_Board.md)                                 | Miscellaneous              | 1.5        |
+| 5  | [Error Handling](All-Challenges/Error_Handling.md)                           | Security Misconfiguration  | 2.5        |
+| 6  | [Zero Stars](All-Challenges/Zero_Stars.md)                                   | Improper Input Validation  | 2          |
+| 7  | [Missing Encoding](All-Challenges/Missing_Encoding.md)                       | Improper Input Validation  | 1.5        |
+| 8  | [Security Policy](All-Challenges/Security_Policy.md)                         | Miscellaneous              | 2          |
+| 9  | [Poison Null Byte](All-Challenges/Poison_Null_Byte.md)                       | Security Misconfiguration  | 3.5        |
+| 10 | [Forgotten Developer Backup](All-Challenges/Forgotten_Developer_Backup.md)   | Sensitive Data Exposure    | 3.5        |
 
 _(More will be added as I go through the challenges.)_
 

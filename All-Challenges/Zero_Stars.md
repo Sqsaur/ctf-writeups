@@ -14,6 +14,7 @@ This challenge was solved by manipulating a legitimate feedback submission reque
 ---
 
 **Steps**:
+
 1. I navigated to the **"Customer Feedback"** section of the application.
 2. Filled out a basic comment and selected a valid rating (e.g., 3 stars) to allow the form to submit.
 3. Intercepted the request using **Burp Suite**.
@@ -23,7 +24,7 @@ This challenge was solved by manipulating a legitimate feedback submission reque
      "UserId": 23,
      "captchaId": 3,
      "captcha": "23",
-     "comment": "123123 (***@123)",
+     "comment": "123123 (@123)",*
      "rating": 0
-   }
-**"Challenge solved!"** popup confirmed that the challenge was completed.
+   }  
+   **"Challenge solved!" popup confirmed that the challenge was completed.

@@ -5,19 +5,19 @@
 
 ---
 
-### 🧠 Description
+### Description
 
 This challenge involved discovering a misconfigured endpoint that exposed internal application metrics — potentially leaking sensitive operational data.
 
 ---
 
-### 🛠️ Solution
+### Solution
 
 The challenge was solved by locating an unprotected `/metrics` endpoint, commonly used by tools like Prometheus.
 
 ---
 
-### 🔍 Steps
+### Steps
 
 1. While browsing the Juice Shop or running tools like Gobuster or manual fuzzing, I discovered an undocumented endpoint:
    

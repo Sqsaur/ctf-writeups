@@ -5,13 +5,13 @@
 
 ---
 
-### 🧠 Description
+### Description
 
 Was able to delete **all five-star feedbacks** despite not being an administrator. This was possible due to weak JWT validation and access control flaws.
 
 ---
 
-### 🛠 Solution
+### Solution
 
 **It is highly possible that we can ommit steps 1-4 to unlock this challenge**
 

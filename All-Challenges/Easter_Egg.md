@@ -5,19 +5,19 @@
 
 ---
 
-### 🧠 Description
+### Description
 
 This challenge required accessing a hidden file that was blocked by an insecure file extension filter.
 
 ---
 
-### 🛠️ Solution
+### Solution
 
 The server only allowed access to `.md` and `.pdf` files, blocking others like `.gg`. However, the validation was flawed and could be bypassed using a Poison Null Byte attack with double URL encoding.
 
 ---
 
-### 🔍 Steps
+### Steps
 
 1. I discovered the `/ftp` directory using Gobuster:
    

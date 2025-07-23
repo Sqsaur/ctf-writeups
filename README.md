@@ -39,6 +39,7 @@ The ratings are based on my opinion.
 | 11  | [Five-Star Feedback](All-Challenges/Five-Star_Feedback.md)                 | Broken Access Control     | 4          |
 | 12  | [Exposed Metrics](All-Challenges/Exposed_Metrics.md)                       | Sensitive Data Exposure   | 2          |
 | 13  | [Easter Egg](All-Challenges/Easter_Egg.md)                                 | Security Misconfiguration | 3          |
+| 14  | [Confidential Document](All-Challenges/Confidential_Document.md)           | Sensitive Data Exposure   | 1.5        |
 
 _(More will be added as I go through the challenges.)_
 
@@ -47,7 +48,7 @@ _(More will be added as I go through the challenges.)_
 ## 🧠 Tools & Technologies
 
 - 🧪 OWASP Juice Shop (local instance)  
-- 🧰 Burp Suite, curl, ffuf, LinkFinder  
+- 🧰 Burp Suite, curl, ffuf, LinkFinder, gobuster  
 - 🗂️ GitHub for documentation  
 - 📝 Markdown for writeups  
 

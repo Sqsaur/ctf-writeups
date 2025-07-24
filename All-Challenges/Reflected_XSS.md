@@ -2,13 +2,11 @@
 
 **Category**: XSS
 
-**Difficulty**: 250
+**Difficulty**: ? 
 
 **Description**:
 
-Perform a <i>reflected</i> XSS attack with <code>&lt;iframe src="javascript:alert(`xss`)"&gt;</code>. <em>(This challenge is <strong>potentially harmful</strong> on Docker!)</em> (Difficulty Level: 2)
-
-
+Perform a <i>reflected</i> XSS attack with <code>&lt;iframe src="javascript:alert(`xss`)"&gt;</code>. <em>(This challenge is <strong>potentially harmful</strong> on Docker!)</em>
 
 Steps:
 

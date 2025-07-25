@@ -24,22 +24,29 @@ The ratings are based on my opinion.
 
 ## 📚 Table of Contents
 
-| #   | Challenge Name                                                             | Category                  | Difficulty |
-| --- | -------------------------------------------------------------------------- | ------------------------- | ---------- |
-| 1   | [Login Admin](All-Challenges/Login_Admin.md)                               | Authentication            | 2          |
-| 2   | [Password Strength](All-Challenges/Password_Strength.md)                   | Broken Authentication     | 2.5        |
-| 3   | [Privacy Policy](All-Challenges/Privacy_Policy.md)                         | Miscellaneous             | 1          |
-| 4   | [Score Board](All-Challenges/Score_Board.md)                               | Miscellaneous             | 1.5        |
-| 5   | [Error Handling](All-Challenges/Error_Handling.md)                         | Security Misconfiguration | 2.5        |
-| 6   | [Zero Stars](All-Challenges/Zero_Stars.md)                                 | Improper Input Validation | 2          |
-| 7   | [Missing Encoding](All-Challenges/Missing_Encoding.md)                     | Improper Input Validation | 1.5        |
-| 8   | [Security Policy](All-Challenges/Security_Policy.md)                       | Miscellaneous             | 2          |
-| 9   | [Poison Null Byte](All-Challenges/Poison_Null_Byte.md)                     | Security Misconfiguration | 3.5        |
-| 10  | [Forgotten Developer Backup](All-Challenges/Forgotten_Developer_Backup.md) | Sensitive Data Exposure   | 3.5        |
-| 11  | [Five-Star Feedback](All-Challenges/Five-Star_Feedback.md)                 | Broken Access Control     | 4          |
-| 12  | [Exposed Metrics](All-Challenges/Exposed_Metrics.md)                       | Sensitive Data Exposure   | 2          |
-| 13  | [Easter Egg](All-Challenges/Easter_Egg.md)                                 | Security Misconfiguration | 3          |
-| 14  | [Confidential Document](All-Challenges/Confidential_Document.md)           | Sensitive Data Exposure   | 1.5        |
+| #   | Challenge Name                                                              | Category                   | Difficulty |
+| --- | --------------------------------------------------------------------------- | -------------------------- | ---------- |
+| 1   | [Login Admin](All-Challenges/Login_Admin.md)                                | Authentication             | 2          |
+| 2   | [Password Strength](All-Challenges/Password_Strength.md)                    | Broken Authentication      | 2.5        |
+| 3   | [Privacy Policy](All-Challenges/Privacy_Policy.md)                          | Miscellaneous              | 1          |
+| 4   | [Score Board](All-Challenges/Score_Board.md)                                | Miscellaneous              | 1.5        |
+| 5   | [Error Handling](All-Challenges/Error_Handling.md)                          | Security Misconfiguration  | 2.5        |
+| 6   | [Zero Stars](All-Challenges/Zero_Stars.md)                                  | Improper Input Validation  | 2          |
+| 7   | [Missing Encoding](All-Challenges/Missing_Encoding.md)                      | Improper Input Validation  | 1.5        |
+| 8   | [Security Policy](All-Challenges/Security_Policy.md)                        | Miscellaneous              | 2          |
+| 9   | [Poison Null Byte](All-Challenges/Poison_Null_Byte.md)                      | Security Misconfiguration  | 3.5        |
+| 10  | [Forgotten Developer Backup](All-Challenges/Forgotten_Developer_Backup.md)  | Sensitive Data Exposure    | 3.5        |
+| 11  | [Five-Star Feedback](All-Challenges/Five-Star_Feedback.md)                  | Broken Access Control      | 4          |
+| 12  | [Exposed Metrics](All-Challenges/Exposed_Metrics.md)                        | Sensitive Data Exposure    | 2          |
+| 13  | [Easter Egg](All-Challenges/Easter_Egg.md)                                  | Security Misconfiguration  | 3          |
+| 14  | [Confidential Document](All-Challenges/Confidential_Document.md)            | Sensitive Data Exposure    | 1.5        |
+| 15  | [DOM XSS](All-Challenges/DOM_XSS.md)                                        | Cross-Site Scripting (XSS) | 2          |
+| 16  | [Reflected XSS](All-Challenges/Reflected_XSS.md)                            | XSS                        | ?          |
+| 17  | [DOM XSS (Bonus Payload via Search Field)](All-Challenges/Bonus_Payload.md) | Cross-Site Scripting (XSS) | 2          |
+| 18  | [Repetitive Registration](All-Challenges/Repetitive_Registration.md)        | Broken Logic               | 1.5        |
+| 19  | [Web3 Sandbox](All-Challenges/Web3_Sandbox.md)                              | Security Misconfiguration  | 1.5        |
+| 20  | [Outdated Allowlist](All-Challenges/Outdated_Allowlist.md)                  | Security Misconfiguration  | 1.5        |
+| 21  | [Mass Dispel](All-Challenges/Mass_Dispel.md)                                | Miscellaneous              | 1          |
 
 _(More will be added as I go through the challenges.)_
 

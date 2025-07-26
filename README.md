@@ -40,15 +40,15 @@ The ratings are based on my opinion.
 | 12  | [Exposed Metrics](All-Challenges/Exposed_Metrics.md)                        | Sensitive Data Exposure    | 2          |
 | 13  | [Easter Egg](All-Challenges/Easter_Egg.md)                                  | Security Misconfiguration  | 3          |
 | 14  | [Confidential Document](All-Challenges/Confidential_Document.md)            | Sensitive Data Exposure    | 1.5        |
-| 15  | [DOM XSS](All-Challenges/DOM_XSS.md)                                        | Cross-Site Scripting (XSS) | 2          |
-| 16  | [Reflected XSS](All-Challenges/Reflected_XSS.md)                            | XSS                        | ?          |
+| 15  | [DOM XSS](All-Challenges/DOM_XSS.md)                                        | Cross-Site Scripting XSS   | 2          |
+| 16  | [Reflected XSS](All-Challenges/Reflected_XSS.md)                            | Cross-Site Scripting XSS   | ?          |
 | 17  | [DOM XSS (Bonus Payload via Search Field)](All-Challenges/Bonus_Payload.md) | Cross-Site Scripting (XSS) | 2          |
 | 18  | [Repetitive Registration](All-Challenges/Repetitive_Registration.md)        | Broken Logic               | 1.5        |
 | 19  | [Web3 Sandbox](All-Challenges/Web3_Sandbox.md)                              | Security Misconfiguration  | 1.5        |
 | 20  | [Outdated Allowlist](All-Challenges/Outdated_Allowlist.md)                  | Security Misconfiguration  | 1.5        |
 | 21  | [Mass Dispel](All-Challenges/Mass_Dispel.md)                                | Miscellaneous              | 1          |
 | 22  | [Bully Chatbot](All-Challenges/Bully_Chatbot.md)                            | Broken Logic               | 1          |
-| 24  | [Admin Section](All-Challenges/Admin_Section.md)                        	  | Broken Access Control      | 3          |
+| 23  | [Admin Section](All-Challenges/Admin_Section.md)                        	  | Broken Access Control      | 3          |
 
 _(More will be added as I go through the challenges.)_
 

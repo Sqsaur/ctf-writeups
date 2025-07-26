@@ -47,6 +47,8 @@ The ratings are based on my opinion.
 | 19  | [Web3 Sandbox](All-Challenges/Web3_Sandbox.md)                              | Security Misconfiguration  | 1.5        |
 | 20  | [Outdated Allowlist](All-Challenges/Outdated_Allowlist.md)                  | Security Misconfiguration  | 1.5        |
 | 21  | [Mass Dispel](All-Challenges/Mass_Dispel.md)                                | Miscellaneous              | 1          |
+| 22  | [Bully Chatbot](All-Challenges/Bully_Chatbot.md)                            | Broken Logic               | 1          |
+| 24  | [Admin Section](All-Challenges/Admin_Section.md)                        	  | Broken Access Control      | 3          |
 
 _(More will be added as I go through the challenges.)_
 
@@ -55,7 +57,7 @@ _(More will be added as I go through the challenges.)_
 ## 🧠 Tools & Technologies
 
 - 🧪 OWASP Juice Shop (local instance)  
-- 🧰 Burp Suite, curl, ffuf, LinkFinder, gobuster  
+- 🧰 Burp Suite, curl, ffuf, LinkFinder, gobuster, gpg, devtools, dirsearch, jwt_tool
 - 🗂️ GitHub for documentation  
 - 📝 Markdown for writeups  
 
